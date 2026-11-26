@@ -4,8 +4,8 @@ import json
 import sys
 from html import escape
 
-ACCENT = "#ff3b3b"
-KEY = "#ff7b72"
+ACCENT = "#ffb7ce"
+KEY = "#ffd3e1"
 FG = "#e6e6e6"
 DIM = "#8b949e"
 BG = "#0d1117"

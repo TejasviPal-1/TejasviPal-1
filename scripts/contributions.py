@@ -12,8 +12,8 @@ import sys
 import urllib.request
 from datetime import date, timedelta
 
-BG, BORDER, FG, DIM, ACCENT = "#0d1117", "#30363d", "#e6e6e6", "#8b949e", "#ff3b3b"
-LEVELS = ["#161b22", "#4a1414", "#8c1c1c", "#d12a2a", "#ff3b3b"]
+BG, BORDER, FG, DIM, ACCENT = "#0d1117", "#30363d", "#e6e6e6", "#8b949e", "#ffb7ce"
+LEVELS = ["#161b22", "#4a3540", "#86596b", "#c98ca2", "#ffb7ce"]
 FONT = "'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace"
 
 QUERY = """query($login:String!){ user(login:$login){ contributionsCollection{

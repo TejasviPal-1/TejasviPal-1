@@ -13,7 +13,7 @@ from PIL import Image, ImageOps, ImageFilter, ImageEnhance, ImageDraw
 COLS = 76            # characters per row
 CHAR_W, CHAR_H = 7.2, 12.0  # px per character cell (monospace at 12px)
 RAMP = " .'`^,:;Il!i~+_-?][}{1)(|/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$"
-ACCENT = "#ff3b3b"   # epochexplorer red
+ACCENT = "#ffb7ce"   # baby pink
 FG = "#e6e6e6"
 BG = "#0d1117"
 PAD = 18
