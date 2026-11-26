@@ -13,6 +13,32 @@
   <a href="https://www.linkedin.com/in/tejasvi-pal"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffb7ce" alt="LinkedIn"/></a>
 </p>
 
+### `skills --list`
+
+**AI engineering**<br/>
+<img src="https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=claude&logoColor=ffb7ce" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/Codex-0d1117?style=for-the-badge&logo=openai&logoColor=ffb7ce" alt="Codex"/>
+<img src="https://img.shields.io/badge/Claude_API-0d1117?style=for-the-badge&logo=anthropic&logoColor=ffb7ce" alt="Claude API"/>
+<img src="https://img.shields.io/badge/OpenAI_API-0d1117?style=for-the-badge&logo=openai&logoColor=ffb7ce" alt="OpenAI API"/>
+<img src="https://img.shields.io/badge/RAG_&_Agents-0d1117?style=for-the-badge" alt="RAG and agents"/>
+<img src="https://img.shields.io/badge/Evals-0d1117?style=for-the-badge" alt="LLM evals"/>
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ffb7ce" alt="PyTorch"/>
+
+**Build & ship (forward-deployed)**<br/>
+<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=ffb7ce" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Postgres-0d1117?style=for-the-badge&logo=postgresql&logoColor=ffb7ce" alt="Postgres"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffb7ce" alt="Python"/>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=ffb7ce" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=ffb7ce" alt="React"/>
+<img src="https://img.shields.io/badge/Lovable-0d1117?style=for-the-badge&logo=lovable&logoColor=ffb7ce" alt="Lovable"/>
+
+**Infra & reliability**<br/>
+<img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=ffb7ce" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=ffb7ce" alt="Docker"/>
+<img src="https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=ffb7ce" alt="Terraform"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=ffb7ce" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Observability-0d1117?style=for-the-badge&logo=grafana&logoColor=ffb7ce" alt="Observability"/>
+
 ### `./contributions.sh`
 
 <p align="center">

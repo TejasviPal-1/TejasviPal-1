@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="462" viewBox="0 0 520 462" role="img" aria-label="Tejasvi Pal: ML Engineer · Co-founder @ Eve · SRE → Platform → ML">
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="482" viewBox="0 0 520 482" role="img" aria-label="Tejasvi Pal: ML Engineer · Co-founder @ Eve · SRE → Platform → ML">
 <style>
   text { font: 13px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; fill: #e6e6e6; white-space: pre; }
   .k { fill: #ffd3e1; font-weight: 600; } .d { fill: #8b949e; } .a { fill: #ffb7ce; font-weight: 700; }
@@ -18,13 +18,14 @@
 <text class="l" x="22" y="162" style="animation-delay:0.60s"><tspan class="k">Edu</tspan><tspan x="114">M.S. CS (AI), Georgia Tech OMSCS &#x27;26</tspan></text>
 <text class="l" x="22" y="182" style="animation-delay:0.72s"><tspan class="k">Base</tspan><tspan x="114">Toronto &lt;-&gt; SF</tspan></text>
 <text class="l" x="22" y="222" style="animation-delay:0.96s"><tspan class="d">─ </tspan><tspan class="a">Stack</tspan><tspan class="d"> ───────────────────────────────────</tspan></text>
-<text class="l" x="22" y="242" style="animation-delay:1.08s"><tspan class="k">ML / AI</tspan><tspan x="114">PyTorch, LLMs, RAG, evals, OpenAI APIs</tspan></text>
-<text class="l" x="22" y="262" style="animation-delay:1.20s"><tspan class="k">MLOps</tspan><tspan x="114">model serving, feature pipelines, monitoring</tspan></text>
-<text class="l" x="22" y="282" style="animation-delay:1.32s"><tspan class="k">Platform</tspan><tspan x="114">Kubernetes, Terraform, CI/CD, observability</tspan></text>
-<text class="l" x="22" y="302" style="animation-delay:1.44s"><tspan class="k">App</tspan><tspan x="114">Python, TypeScript, React, Supabase</tspan></text>
-<text class="l" x="22" y="342" style="animation-delay:1.68s"><tspan class="d">─ </tspan><tspan class="a">Highlights</tspan><tspan class="d"> ──────────────────────────────</tspan></text>
-<text class="l" x="22" y="362" style="animation-delay:1.80s"><tspan class="a">▸</tspan> Building Eve: AI eldercare alerts for long-distance families</text>
-<text class="l" x="22" y="382" style="animation-delay:1.92s"><tspan class="a">▸</tspan> Took ML systems from notebook to production at scale</text>
-<text class="l" x="22" y="402" style="animation-delay:2.04s"><tspan class="a">▸</tspan> Writing about AI &amp; productivity at epochexplorer.ca</text>
-<text class="l" x="22" y="442" style="animation-delay:2.28s"><tspan class="a">➜</tspan> <tspan class="d">tejasvi@github:~$ </tspan><tspan class="cur">█</tspan></text>
+<text class="l" x="22" y="242" style="animation-delay:1.08s"><tspan class="k">AI eng</tspan><tspan x="114">LLM apps, RAG, agents, evals, prompt design</tspan></text>
+<text class="l" x="22" y="262" style="animation-delay:1.20s"><tspan class="k">AI tools</tspan><tspan x="114">Claude Code, Codex, Lovable, OpenAI &amp; Claude APIs</tspan></text>
+<text class="l" x="22" y="282" style="animation-delay:1.32s"><tspan class="k">App</tspan><tspan x="114">Python, TypeScript, React, Supabase, Postgres</tspan></text>
+<text class="l" x="22" y="302" style="animation-delay:1.44s"><tspan class="k">ML</tspan><tspan x="114">PyTorch, model serving, feature pipelines</tspan></text>
+<text class="l" x="22" y="322" style="animation-delay:1.56s"><tspan class="k">Platform</tspan><tspan x="114">Kubernetes, Docker, Terraform, CI/CD, SRE</tspan></text>
+<text class="l" x="22" y="362" style="animation-delay:1.80s"><tspan class="d">─ </tspan><tspan class="a">Highlights</tspan><tspan class="d"> ──────────────────────────────</tspan></text>
+<text class="l" x="22" y="382" style="animation-delay:1.92s"><tspan class="a">▸</tspan> Building Eve: AI eldercare alerts for long-distance families</text>
+<text class="l" x="22" y="402" style="animation-delay:2.04s"><tspan class="a">▸</tspan> 50+ user interviews -&gt; prototype with live users</text>
+<text class="l" x="22" y="422" style="animation-delay:2.16s"><tspan class="a">▸</tspan> Writing about AI &amp; productivity at epochexplorer.ca</text>
+<text class="l" x="22" y="462" style="animation-delay:2.40s"><tspan class="a">➜</tspan> <tspan class="d">tejasvi@github:~$ </tspan><tspan class="cur">█</tspan></text>
 </svg>
