@@ -3,7 +3,7 @@
       .t { font: 12px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; fill: #e6e6e6; white-space: pre; }
       .r { opacity: 0; animation: show 9.0s linear infinite; }
       .lbl { font: 11px 'SFMono-Regular', Consolas, Menlo, monospace; fill: #8b949e; }
-      .cur { fill: #ff3b3b; animation: blink 1s steps(1) infinite; }
+      .cur { fill: #ffb7ce; animation: blink 1s steps(1) infinite; }
       @keyframes blink { 50% { opacity: 0; } }
     
       @keyframes show {

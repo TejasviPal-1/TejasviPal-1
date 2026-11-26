@@ -8,9 +8,9 @@
 <p align="center"><b>ML Engineer · Co-founder @ Eve · SRE → Platform → ML</b></p>
 
 <p align="center">
-  <a href="https://epochexplorer.ca"><img src="https://img.shields.io/badge/epochexplorer.ca-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ff3b3b" alt="Website"/></a>
-  <a href="https://evecare.ing"><img src="https://img.shields.io/badge/Eve-evecare.ing-ff3b3b?style=for-the-badge" alt="Eve"/></a>
-  <a href="https://www.linkedin.com/in/tejasvi-pal"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff3b3b" alt="LinkedIn"/></a>
+  <a href="https://epochexplorer.ca"><img src="https://img.shields.io/badge/epochexplorer.ca-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ffb7ce" alt="Website"/></a>
+  <a href="https://evecare.ing"><img src="https://img.shields.io/badge/Eve-evecare.ing-ffb7ce?style=for-the-badge" alt="Eve"/></a>
+  <a href="https://www.linkedin.com/in/tejasvi-pal"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffb7ce" alt="LinkedIn"/></a>
 </p>
 
 ### `./contributions.sh`
