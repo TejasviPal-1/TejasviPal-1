@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="462" viewBox="0 0 520 462" role="img" aria-label="Tejasvi Pal: ML Engineer · Co-founder @ Eve · SRE → Platform → ML">
 <style>
   text { font: 13px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; fill: #e6e6e6; white-space: pre; }
-  .k { fill: #ffd3e1; font-weight: 600; } .d { fill: #8b949e; } .a { fill: #ffb7ce; font-weight: 700; }
+  .k { fill: #ff7b72; font-weight: 600; } .d { fill: #8b949e; } .a { fill: #ff3b3b; font-weight: 700; }
   .l { opacity: 0; animation: in .25s ease forwards; }
-  .cur { fill: #ffb7ce; animation: blink 1s steps(1) infinite; }
+  .cur { fill: #ff3b3b; animation: blink 1s steps(1) infinite; }
   @keyframes in { to { opacity: 1; } }
   @keyframes blink { 50% { opacity: 0; } }
 </style>
@@ -16,7 +16,7 @@
 <text class="l" x="22" y="122" style="animation-delay:0.36s"><tspan class="k">Now</tspan><tspan x="114">Co-founder &amp; engineer @ Eve (evecare.ing)</tspan></text>
 <text class="l" x="22" y="142" style="animation-delay:0.48s"><tspan class="k">Role</tspan><tspan x="114">ML Engineer, ~8 yrs across SRE, platform &amp; ML</tspan></text>
 <text class="l" x="22" y="162" style="animation-delay:0.60s"><tspan class="k">Edu</tspan><tspan x="114">M.S. CS (AI), Georgia Tech OMSCS &#x27;26</tspan></text>
-<text class="l" x="22" y="182" style="animation-delay:0.72s"><tspan class="k">Base</tspan><tspan x="114">Toronto &lt;-&gt; SF</tspan></text>
+<text class="l" x="22" y="182" style="animation-delay:0.72s"><tspan class="k">Base</tspan><tspan x="114">Toronto, Canada</tspan></text>
 <text class="l" x="22" y="222" style="animation-delay:0.96s"><tspan class="d">─ </tspan><tspan class="a">Stack</tspan><tspan class="d"> ───────────────────────────────────</tspan></text>
 <text class="l" x="22" y="242" style="animation-delay:1.08s"><tspan class="k">ML / AI</tspan><tspan x="114">PyTorch, LLMs, RAG, evals, OpenAI APIs</tspan></text>
 <text class="l" x="22" y="262" style="animation-delay:1.20s"><tspan class="k">MLOps</tspan><tspan x="114">model serving, feature pipelines, monitoring</tspan></text>
