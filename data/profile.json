@@ -3,20 +3,48 @@
   "name": "Tejasvi Pal",
   "tagline": "ML Engineer · Co-founder @ Eve · SRE → Platform → ML",
   "about": [
-    ["Now",   "Co-founder & engineer @ Eve (evecare.ing)"],
-    ["Role",  "ML Engineer, ~8 yrs across SRE, platform & ML"],
-    ["Edu",   "M.S. CS (AI), Georgia Tech OMSCS '26"],
-    ["Base",  "Toronto <-> SF"]
+    [
+      "Now",
+      "Co-founder & engineer @ Eve (evecare.ing)"
+    ],
+    [
+      "Role",
+      "ML Engineer, ~8 yrs across SRE, platform & ML"
+    ],
+    [
+      "Edu",
+      "M.S. CS (AI), Georgia Tech OMSCS '26"
+    ],
+    [
+      "Base",
+      "Toronto <-> SF"
+    ]
   ],
   "stack": [
-    ["ML / AI",  "PyTorch, LLMs, RAG, evals, OpenAI APIs"],
-    ["MLOps",    "model serving, feature pipelines, monitoring"],
-    ["Platform", "Kubernetes, Terraform, CI/CD, observability"],
-    ["App",      "Python, TypeScript, React, Supabase"]
+    [
+      "AI eng",
+      "LLM apps, RAG, agents, evals, prompt design"
+    ],
+    [
+      "AI tools",
+      "Claude Code, Codex, Lovable, OpenAI & Claude APIs"
+    ],
+    [
+      "App",
+      "Python, TypeScript, React, Supabase, Postgres"
+    ],
+    [
+      "ML",
+      "PyTorch, model serving, feature pipelines"
+    ],
+    [
+      "Platform",
+      "Kubernetes, Docker, Terraform, CI/CD, SRE"
+    ]
   ],
   "highlights": [
     "Building Eve: AI eldercare alerts for long-distance families",
-    "Took ML systems from notebook to production at scale",
+    "50+ user interviews -> prototype with live users",
     "Writing about AI & productivity at epochexplorer.ca"
   ]
 }
