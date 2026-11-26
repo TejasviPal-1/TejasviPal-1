@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="583" height="624" viewBox="0 0 583 624" role="img" aria-label="ASCII portrait of Tejasvi Pal">
+<style>
+      .t { font: 12px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; fill: #e6e6e6; white-space: pre; }
+      .r { opacity: 0; animation: show 9.0s linear infinite; }
+      .lbl { font: 11px 'SFMono-Regular', Consolas, Menlo, monospace; fill: #8b949e; }
+      .cur { fill: #ff3b3b; animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    
+      @keyframes show {
+        0% { opacity: 0; } 1% { opacity: 1; }
+        91.1% { opacity: 1; } 97.1% { opacity: 0; } 100% { opacity: 0; }
+      }
+    </style>
+<rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="18" cy="14" r="5" fill="#ff5f56"/><circle cx="34" cy="14" r="5" fill="#ffbd2e"/><circle cx="50" cy="14" r="5" fill="#27c93f"/>
+<text class="lbl" x="292" y="18" text-anchor="middle">tejasvi@github:~$ ./portrait.sh</text>
+<text class="t r" x="18" y="46.0" style="animation-delay:0.000s;animation-duration:9.0s" xml:space="preserve">                                . :wh?YL{rom[</text>
+<text class="t r" x="18" y="58.0" style="animation-delay:0.071s;animation-duration:9.0s" xml:space="preserve">                              .. {*@#oohq0XJqX]Zv</text>
+<text class="t r" x="18" y="70.0" style="animation-delay:0.142s;animation-duration:9.0s" xml:space="preserve">                                ]8kv|?!I l-juwo$$pJ`</text>
+<text class="t r" x="18" y="82.0" style="animation-delay:0.213s;animation-duration:9.0s" xml:space="preserve">                            ,|jY*Cti,}I!}{1/}|rjJb&amp;m[&#x27;</text>
+<text class="t r" x="18" y="94.0" style="animation-delay:0.284s;animation-duration:9.0s" xml:space="preserve">                           +r0MX](?[t]^i)?_{?1}ilI1Jhdz,</text>
+<text class="t r" x="18" y="106.0" style="animation-delay:0.356s;animation-duration:9.0s" xml:space="preserve">                         .-8WC( !j|rt/1r|``:i{]]{!  _CBM] .</text>
+<text class="t r" x="18" y="118.0" style="animation-delay:0.427s;animation-duration:9.0s" xml:space="preserve">                 ~I      .mBmjjrxrrtt)??+[|{)1}?}?||!if&amp;W.</text>
+<text class="t r" x="18" y="130.0" style="animation-delay:0.498s;animation-duration:9.0s" xml:space="preserve">                 m1    . |&amp;z~(uuxjc|  !{+&#x27;](t|?i]][fvn-rMq~..</text>
+<text class="t r" x="18" y="142.0" style="animation-delay:0.569s;animation-duration:9.0s" xml:space="preserve">                        `hQ:~11uur1+ljCYn(vZkMaLt1?{ttu|u&amp;qw~</text>
+<text class="t r" x="18" y="154.0" style="animation-delay:0.640s;animation-duration:9.0s" xml:space="preserve">                       ^0p_+rjcxnx}fUXcYZh#%$$$$or[)xx|rtJ%@|</text>
+<text class="t r" x="18" y="166.0" style="animation-delay:0.711s;animation-duration:9.0s" xml:space="preserve">             -_        hou?_nz{~r/zzvUmo%B@$$@@@%L1}|nc)lfw$j .</text>
+<text class="t r" x="18" y="178.0" style="animation-delay:0.782s;animation-duration:9.0s" xml:space="preserve">             cc     .&#x27;Xonn)}tj/x((nYdM%@$$$@@$$@@dv(1tcc:`XM&amp;I</text>
+<text class="t r" x="18" y="190.0" style="animation-delay:0.853s;animation-duration:9.0s" xml:space="preserve">                   .vap(,}-{-]jfuQwp*B$$$$$$$$@@@oYn{1rXt,{O@,   .</text>
+<text class="t r" x="18" y="202.0" style="animation-delay:0.924s;animation-duration:9.0s" xml:space="preserve">                  .,Wdv~,+|]i+[tvUZd#%@$$$$BMW&amp;&amp;&amp;wzz{}fucl?)a(wO`</text>
+<text class="t r" x="18" y="214.0" style="animation-delay:0.996s;animation-duration:9.0s" xml:space="preserve">           ~|      iox; !|(|/)-rJkOwM%$$$$@%Mqpo&amp;WQz{}fjc!i]kmh$pc)</text>
+<text class="t r" x="18" y="226.0" style="animation-delay:1.067s;animation-duration:9.0s" xml:space="preserve">            .    ;z0)I{1?}~]{.}d@$$$@@$$$$B&amp;8ZZmUpkJ})tfni1?Jo*%$#v</text>
+<text class="t r" x="18" y="238.0" style="animation-delay:1.138s;animation-duration:9.0s" xml:space="preserve">                ;#a}`[vn[`i}}]q$@@@@$$$$$$$$$$$B88hr}r)rcI;:~q$B@Zl</text>
+<text class="t r" x="18" y="250.0" style="animation-delay:1.209s;animation-duration:9.0s" xml:space="preserve">                Y$ntu[]t]l+?j8$@$$$$$$$$$$$$$@@$$$m?}f[|t}/Lr)#BB$j`l</text>
+<text class="t r" x="18" y="262.0" style="animation-delay:1.280s;animation-duration:9.0s" xml:space="preserve">                ooxr]+:]^-r~j$@$$$$$$$$$$$$$$$$@$&amp;u[}1}}{{jqqv8@$8q*8_ .</text>
+<text class="t r" x="18" y="274.0" style="animation-delay:1.351s;animation-duration:9.0s" xml:space="preserve">        .      !B0rruc?[.,j[]&amp;$@$BB$$$$$$$$$$$@@BCf))?l+]?_rYJa*8#$$a;   I;</text>
+<text class="t r" x="18" y="286.0" style="animation-delay:1.422s;animation-duration:9.0s" xml:space="preserve">               Z#0xuYC}`[];(-r$@@%*W8BBBB%@$$@@$Yl_{i   _- ]rb&amp;XL#@Bm  +-]_</text>
+<text class="t r" x="18" y="298.0" style="animation-delay:1.493s;animation-duration:9.0s" xml:space="preserve">      .,r/    {@h&amp;Oxmn^^iu+}?~nB$$B888&amp;*koB$$$BJl_}1 &#x27;  :)+}[t#Xcqa$Y{.l!</text>
+<text class="t r" x="18" y="310.0" style="animation-delay:1.564s;animation-duration:9.0s" xml:space="preserve">      _(OC    :m#$MUYf_:`]{rt}ij%@$$@@B%B$$$@&amp;n!1))]_?+I&#x27;]|0c?/mwp(n^,</text>
+<text class="t r" x="18" y="322.0" style="animation-delay:1.636s;animation-duration:9.0s" xml:space="preserve">               iw*mXn)    :])r{~z@@$$$$$$@@B8d{}i~}})[(r11~J&amp;Z-mW$C ;vc.</text>
+<text class="t r" x="18" y="334.0" style="animation-delay:1.707s;animation-duration:9.0s" xml:space="preserve">   `l        +Ch*hLt)/?!? [)i^i}|M$@$$$@BB@@Bm)!&#x27;?]}]-1-;?}}LQ/QfB$a8$L..</text>
+<text class="t r" x="18" y="346.0" style="animation-delay:1.778s;animation-duration:9.0s" xml:space="preserve">   I(       r&amp;8@$8t _u|x(&#x27;11++I{|k$@$$$$@$$$Bm; ~)?--+]l;I{[I&#x27;nhXB#$@@c    I</text>
+<text class="t r" x="18" y="358.0" style="animation-delay:1.849s;animation-duration:9.0s" xml:space="preserve"> ,t        ido@$WYi {[~c+_|(+l;11Y$$$$$$$$$$BO(` :~?{{{({}}1Il1thc*BB%Xj&#x27;  ]</text>
+<text class="t r" x="18" y="370.0" style="animation-delay:1.920s;animation-duration:9.0s" xml:space="preserve"> .; 1-   ]&#x27;,uo#dX[I/jI/{f1[~]]){~xM$@$$$$$@$8QQ(. ,(xjt~?jnr[(X|0W$$B#q$C</text>
+<text class="t r" x="18" y="382.0" style="animation-delay:1.991s;animation-duration:9.0s" xml:space="preserve">    ^`   ]-z0wOc(_,1)+{,~/?: i_:}Xp$@$$$$$$%bQzOX|__^ ^-u);&#x27;^`:!-XpM@$$&amp;c</text>
+<text class="t r" x="18" y="394.0" style="animation-delay:2.062s;animation-duration:9.0s" xml:space="preserve">       ^zL#bamf+l  !]il&#x27;i}uf]|+.-Yd@$$$$$$%Mor`fcnvxjtYJl      :!  ^+Q@8n:.</text>
+<text class="t r" x="18" y="406.0" style="animation-delay:2.133s;animation-duration:9.0s" xml:space="preserve">       :np*#mnr`&#x27;`-1,!)}|{]/rI`^|qMBB$$$@@B$O.     ^0/I,       &#x27;^     qa8L</text>
+<text class="t r" x="18" y="418.0" style="animation-delay:2.204s;animation-duration:9.0s" xml:space="preserve">        f&amp;hwnXXt}])_ i1[[}[]t} ,CW$@@$$@@$$@n       ut              &#x27; |qrkf?</text>
+<text class="t r" x="18" y="430.0" style="animation-delay:2.276s;animation-duration:9.0s" xml:space="preserve">       j$Wd0Yv/,I;||.`{[1{i_1)~1zM$$@@@$$@@k`i-    &#x27;cU?               {# f$$</text>
+<text class="t r" x="18" y="442.0" style="animation-delay:2.347s;animation-duration:9.0s" xml:space="preserve">       1M#mj-,_I,!}}(]:)|-[![{]OCpBB@@$$$@$j :;  ltXtxZ_    `.  .i  ?;_B/:|c</text>
+<text class="t r" x="18" y="454.0" style="animation-delay:2.418s;animation-duration:9.0s" xml:space="preserve">      r##Zn+&#x27;}f+j/ru/)jU(.I}}|QhQCB@$$$$@$M:     }}: /Ui   &#x27;z, ?zn+(rI WO</text>
+<text class="t r" x="18" y="466.0" style="animation-delay:2.489s;animation-duration:9.0s" xml:space="preserve">      w@qu{(,l;|zn/}{(Xx{~++]ZMpvk$$$$$$@$Y         ~L{    ]Y]fLQcJ)  `*a;..</text>
+<text class="t r" x="18" y="478.0" style="animation-delay:2.560s;animation-duration:9.0s" xml:space="preserve">     .h&amp;JY/^`fXfi-rf(rf11I(nd&amp;oJp@@$$$$@@B+       . xz`    fCXLYx{`   `M1</text>
+<text class="t r" x="18" y="490.0" style="animation-delay:2.631s;animation-duration:9.0s" xml:space="preserve">     ^Z&amp;UXu_rz-+]fr(?-[((-u#BhqM$%@$$$$@@p.        !L~    :vnJYx+      mY .</text>
+<text class="t r" x="18" y="502.0" style="animation-delay:2.702s;animation-duration:9.0s" xml:space="preserve">     |ahuv]tUi }1j?1)i)_jXoMhoW#*8BB@@@$$f         nn    ^fuCXrt/?f!   U?</text>
+<text class="t r" x="18" y="514.0" style="animation-delay:2.773s;animation-duration:9.0s" xml:space="preserve">     u%Ucx{v);[|{_ft!:/irJqM$$$$$$$$$$$B*l        l0+   .(CxLXuxvtl  &#x27;i??</text>
+<text class="t r" x="18" y="526.0" style="animation-delay:2.844s;animation-duration:9.0s" xml:space="preserve">    ,*oJX?[?:-]ii1|_ .~1cf][|xvzzzcvx)]-f         xr  &#x27;~YQrvCc/(I   ~Xu-a</text>
+<text class="t r" x="18" y="538.0" style="animation-delay:2.916s;animation-duration:9.0s" xml:space="preserve">    z&amp;%0rIv-_|`iIll}}})[J{.            +)        -O}  ~Q0YjCzv_:&#x27; Ixmqjtb</text>
+<text class="t r" x="18" y="550.0" style="animation-delay:2.987s;animation-duration:9.0s" xml:space="preserve">    O@8Uv?_]{vI::;_}1~:l?    ..........1+        zt   ~QQzvY?:  :nC]ltnpt .</text>
+<text class="t r" x="18" y="562.0" style="animation-delay:3.058s;animation-duration:9.0s" xml:space="preserve">    ?@mrc}i1[i,j|{-]}:i--.             )I       _L-_|XO0QnXi  ;rY/^,!^&#x27;C)</text>
+<text class="t r" x="18" y="574.0" style="animation-delay:3.129s;animation-duration:9.0s" xml:space="preserve">    .*0+1|u1` 1)ii^+i`Ild(            &#x27;l.       zf-?vJ|uLuz&#x27; -Cx,  I}/+mU .</text>
+<text class="lbl" x="18" y="592">rendering portrait… <tspan class="cur">█</tspan></text>
+</svg>
