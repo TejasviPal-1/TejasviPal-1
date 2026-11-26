@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="462" viewBox="0 0 520 462" role="img" aria-label="Tejasvi Pal: ML Engineer · Co-founder @ Eve · SRE → Platform → ML">
 <style>
   text { font: 13px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; fill: #e6e6e6; white-space: pre; }
-  .k { fill: #ff7b72; font-weight: 600; } .d { fill: #8b949e; } .a { fill: #ff3b3b; font-weight: 700; }
+  .k { fill: #ffd3e1; font-weight: 600; } .d { fill: #8b949e; } .a { fill: #ffb7ce; font-weight: 700; }
   .l { opacity: 0; animation: in .25s ease forwards; }
-  .cur { fill: #ff3b3b; animation: blink 1s steps(1) infinite; }
+  .cur { fill: #ffb7ce; animation: blink 1s steps(1) infinite; }
   @keyframes in { to { opacity: 1; } }
   @keyframes blink { 50% { opacity: 0; } }
 </style>
