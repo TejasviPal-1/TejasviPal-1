@@ -3,7 +3,7 @@
 <rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#30363d"/>
 <text class="v" x="110" y="48" text-anchor="middle">40</text>
 <text x="110" y="72" text-anchor="middle">Total (1y)</text>
-<text class="v a" x="290" y="48" text-anchor="middle">1 d</text>
+<text class="v a" x="290" y="48" text-anchor="middle">0 d</text>
 <text x="290" y="72" text-anchor="middle">Current streak</text>
 <line x1="200" y1="24" x2="200" y2="74" stroke="#30363d"/>
 <text class="v" x="470" y="48" text-anchor="middle">1 d</text>
